@@ -1,0 +1,21 @@
+h1{
+    color:darkmagenta;
+    text-align: center;
+    text-decoration:underline;
+    
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 52pt;
+}
+body{
+    background-image: linear-gradient(purple, white, royalblue)
+
+}
+blockquote{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-decoration:wavy;
+}
+a{
+    color: black;
+}
